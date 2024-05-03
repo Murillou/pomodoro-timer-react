@@ -18,7 +18,7 @@ body{
   background: ${props => props.theme['--color-gray900']};
   color: ${props => props.theme['--color-gray-300']} ;
   -webkit-font-smoothing: antialiased ;
-  font-family: 'Roboto', open-sans;
 }
+
 
 `;
